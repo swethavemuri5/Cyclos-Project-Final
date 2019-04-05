@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="373594" started-at="2019-04-05T06:11:29Z" finished-at="2019-04-05T06:17:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="373594" started-at="2019-04-05T06:11:29Z" finished-at="2019-04-05T06:17:42Z">
+      <class name="com.training.sanity.tests.CYTC_064">
+        <test-method status="PASS" signature="setUpBeforeClass()[pri:0, instance:com.training.sanity.tests.CYTC_064@66a3ffec]" name="setUpBeforeClass" is-config="true" duration-ms="173" started-at="2019-04-05T06:11:29Z" finished-at="2019-04-05T06:11:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeClass -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.training.sanity.tests.CYTC_064@66a3ffec]" name="setUp" is-config="true" duration-ms="305093" started-at="2019-04-05T06:11:29Z" finished-at="2019-04-05T06:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validLoginTest()[pri:0, instance:com.training.sanity.tests.CYTC_064@66a3ffec]" name="validLoginTest" duration-ms="40190" started-at="2019-04-05T06:16:35Z" finished-at="2019-04-05T06:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.training.sanity.tests.CYTC_064@66a3ffec]" name="tearDown" is-config="true" duration-ms="27264" started-at="2019-04-05T06:17:15Z" finished-at="2019-04-05T06:17:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.training.sanity.tests.CYTC_064 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
